@@ -248,7 +248,7 @@ input:focus {
 
 .sep-dot {
     width: 0.3em;
-    aspect-ratio: 1;
+    height: 0.3rem;
     background-color: var(--light-color-alt);
     transform: rotate(45deg);
 }
