@@ -476,7 +476,7 @@ input:focus {
     transition: background-color 300ms ease;
 }
 .sub-element .info .sub-info {
-    color: var(--light-color-dark-altcolor);
+    color: var(--light-color);
     font-size: var(--font-size-xsm);
 
     display: flex;
